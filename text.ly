@@ -4,7 +4,7 @@ upper = \relative c'' {
   \key c \major
   \time 4/4
 
-  a4 b' cis d ees f
+  a4 b' cis d ees f e,
 }
 
 lower = \relative c {
