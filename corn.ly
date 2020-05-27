@@ -13,7 +13,7 @@ upper = \relative c'' {
   >>  
   <d, g bf d>2. <d g bf d>4
 
-  d' c a c8 a d4. f8 d4 c8( a) d4.( c8 d2)
+  d' c a c8 a d4. f8 d4 c8( a) d4.( c8 d2) a c a
 }
 
 lower = \relative c {
